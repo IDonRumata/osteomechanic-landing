@@ -1,0 +1,13 @@
+# Внутренние документы - НЕ публиковать на сайте
+Маркетинговый-план.md
+ТЗ-Telegram-бот.md
+*.docx
+*.xlsx
+
+# Системное
+.DS_Store
+Thumbs.db
+node_modules/
+.vercel
+.env
+.env.*
